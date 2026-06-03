@@ -1,1 +1,10 @@
 DevOps Internship Week 1
+
+pwd - Print Working Directory
+ls - List Files
+cd - Change Directory
+
+mkdir - Create Directory
+touch - Create File
+cat - Display File Content
+
