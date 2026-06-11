@@ -1,24 +1,24 @@
-# Project 3 - CI/CD Pipeline Basics
+# Project 2 - Version Control With Git
 
 ## Objective
-Understand Continuous Integration and Continuous Deployment using GitHub Actions.
+Understand how Git and GitHub help manage source code.
 
-## Pipeline Stages
-- Build
-- Test
-- Deploy (Simulation)
+## Tasks Completed
+- Created Git repository
+- Added files
+- Committed changes
+- Connected local repository to GitHub
+- Pushed code to remote repository
+- Learned Git workflow
 
-## Workflow
+## Git Workflow
+Working Directory → Staging Area → Local Repository → GitHub
 
-Push Code
-↓
-Build
-↓
-Test
-↓
-Deploy
-
-## Tools Used
-- Git
-- GitHub
-- GitHub Actions
+## Commands Practiced
+- git init
+- git status
+- git add
+- git commit
+- git push
+- git pull
+- git clone
