@@ -1,0 +1,23 @@
+name: DecodeLabs CI Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Build Stage
+        run: echo "Building application..."
+
+      - name: Test Stage
+        run: echo "Running tests..."
+
+      - name: Deploy Stage
+        run: echo "Deployment simulation completed."
